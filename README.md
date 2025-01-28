@@ -25,12 +25,12 @@ This project introduces a probabilistic approach to UAV navigation for border su
 
 - Python 3.9
 - Required packages:
-  numpy>=1.21.0
-  scipy>=1.7.0  # For optimize module
-  pandas>=1.3.0
-  matplotlib>=3.4.0
-  time  # Built-in Python module
-  math  # Built-in Python module
-  random  # Built-in Python module 
-  sys  # Built-in Python module
-  functools  # Built-in Python module
+  -numpy>=1.21.0
+  -scipy>=1.7.0  # For optimize module
+  -pandas>=1.3.0
+  -matplotlib>=3.4.0
+  -time  # Built-in Python module
+  -math  # Built-in Python module
+  -random  # Built-in Python module 
+  -sys  # Built-in Python module
+  -functools  # Built-in Python module
